@@ -63,7 +63,7 @@ footer a {
     width: 28px;
     height: 28px;
     border: 2px solid #AE1332;
-    border-radius: 50%;
+    border-radius: 4px;
     padding: 4px;
     box-sizing: content-box;
 }
