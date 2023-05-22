@@ -45,7 +45,12 @@ footer a {
     align-items: flex-start;
     padding: 0;
     gap: 20px;
+    display: flex;
+     flex-direction: row;
+    align-items: center;
 }
+
+
 
 .contacts {
     display: flex;
