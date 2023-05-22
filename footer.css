@@ -10,7 +10,6 @@ footer a {
     border-radius: 100px;
     float: left;
     margin-right: 10px;
-    
 }
 
 .logo-container {
@@ -33,7 +32,6 @@ footer a {
     margin-bottom: 10px;
 }
 
-
 .right {
     position: absolute;
     width: 184px;
@@ -47,26 +45,24 @@ footer a {
     gap: 20px;
 }
 
-
-
-
 .contacts {
     padding: 0;
     display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        padding: 0;
-        gap: 20px;
-        position: absolute;
-        width: 184px;
-        height: 116px;
-        right: 0;
-        top: 84px;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0;
+    gap: 20px;
+    position: absolute;
+    width: 184px;
+    height: 116px;
+    right: 0;
+    top: 84px;
 }
 
-.logo-svg>use {
+.footer-icon>use {
     fill: #AE1332;
 }
+
 .logo-icon {
     margin-right: 10px;
 }
