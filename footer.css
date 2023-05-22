@@ -30,6 +30,8 @@ footer a {
 .navigation {
     text-align: center;
     margin-bottom: 10px;
+    text-align: center;
+    margin-top: -140px;
 }
 
 .right {
@@ -60,12 +62,14 @@ footer a {
 }
 
 .footer-icon {
-    width: 28px;
-    height: 28px;
-    border: 2px solid #AE1332;
-    border-radius: 4px;
-    padding: 4px;
-    box-sizing: content-box;
+.footer-icon {
+        width: 28px;
+        height: 28px;
+        padding: 4px;
+        box-sizing: content-box;
+        border: 2px solid #AE1332;
+        border-radius: 50%;
+    }
     
 }
 
