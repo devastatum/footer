@@ -68,7 +68,7 @@ footer a {
     box-sizing: content-box;
 }
 
-.footer-icon svg {
+.footer-icon  {
     width: 100%;
     height: 100%;
     fill: #AE1332;
