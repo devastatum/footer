@@ -60,10 +60,10 @@ footer a {
 }
 
 .footer-icon {
-    fill: #AE1332;
-    border: 1px solid #AE1332;
+    border: 2px solid #AE1332;
     border-radius: 50%;
     padding: 4px;
+    box-sizing: content-box;
 }
 
 
