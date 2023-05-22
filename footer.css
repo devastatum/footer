@@ -64,10 +64,9 @@ footer a {
         top: 84px;
 }
 
-.logo-svg use {
+.logo-svg>use {
     fill: #AE1332;
 }
-
 .logo-icon {
     margin-right: 10px;
 }
