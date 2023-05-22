@@ -62,15 +62,13 @@ footer a {
 }
 
 .footer-icon {
-.footer-icon {
-        width: 28px;
-        height: 28px;
-        padding: 4px;
-        box-sizing: content-box;
-        border: 2px solid #AE1332;
-        border-radius: 50%;
-    }
-    
+    width: 28px;
+    height: 28px;
+    padding: 4px;
+    box-sizing: content-box;
+    border: 2px solid #AE1332;
+    border-radius: 50%;
+    fill: #AE1332;
 }
 
 .footer-icon svg {
