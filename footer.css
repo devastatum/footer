@@ -60,15 +60,24 @@ footer a {
 }
 
 .footer-icon {
+    width: 28px;
+    height: 28px;
     border: 2px solid #AE1332;
-    border-radius: 50%;
+    border-radius: 8px;
     padding: 4px;
     box-sizing: content-box;
 }
 
-
+.footer-icon svg {
+    width: 100%;
+    height: 100%;
+    fill: #AE1332;
+}
 
 .logo-svg {
+    fill: #AE1332;
+}
+
+.logo-icon {
     margin-right: 10px;
-    fill:#AE1332;
 }
